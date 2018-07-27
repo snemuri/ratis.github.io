@@ -1,0 +1,36 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-06-14T18:25:10+05:30
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 10
+
+Apache Licensed: 10
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/pom.xml
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/proto/Hadoop.proto
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/proto/Raft.proto
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/proto/Netty.proto
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/proto/RMap.proto
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/proto/GRpc.proto
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/proto/Examples.proto
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/resources/META-INF/services/org.apache.ratis.shaded.io.grpc.NameResolverProvider
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/resources/META-INF/services/org.apache.ratis.shaded.io.grpc.ServerProvider
+  AL    /Users/snemuri/git/incubator-ratis/ratis-proto-shaded/src/main/resources/META-INF/services/org.apache.ratis.shaded.io.grpc.ManagedChannelProvider
+ 
+*****************************************************

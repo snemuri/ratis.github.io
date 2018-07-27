@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-grpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-hadoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-hadoop-shaded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-proto-shaded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-replicated-map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratis-server" charset="UTF-8" />
+  </component>
+</project>

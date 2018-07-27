@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/incubator-ratis.iml" filepath="$PROJECT_DIR$/.idea/incubator-ratis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-assembly/ratis-assembly.iml" filepath="$PROJECT_DIR$/ratis-assembly/ratis-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-client/ratis-client.iml" filepath="$PROJECT_DIR$/ratis-client/ratis-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-common/ratis-common.iml" filepath="$PROJECT_DIR$/ratis-common/ratis-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-examples/ratis-examples.iml" filepath="$PROJECT_DIR$/ratis-examples/ratis-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-grpc/ratis-grpc.iml" filepath="$PROJECT_DIR$/ratis-grpc/ratis-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-hadoop/ratis-hadoop.iml" filepath="$PROJECT_DIR$/ratis-hadoop/ratis-hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-hadoop-shaded/ratis-hadoop-shaded.iml" filepath="$PROJECT_DIR$/ratis-hadoop-shaded/ratis-hadoop-shaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-netty/ratis-netty.iml" filepath="$PROJECT_DIR$/ratis-netty/ratis-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-proto-shaded/ratis-proto-shaded.iml" filepath="$PROJECT_DIR$/ratis-proto-shaded/ratis-proto-shaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-replicated-map/ratis-replicated-map.iml" filepath="$PROJECT_DIR$/ratis-replicated-map/ratis-replicated-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratis-server/ratis-server.iml" filepath="$PROJECT_DIR$/ratis-server/ratis-server.iml" />
+    </modules>
+  </component>
+</project>

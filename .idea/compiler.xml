@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ratis-client" />
+        <module name="ratis-common" />
+        <module name="ratis-examples" />
+        <module name="ratis-grpc" />
+        <module name="ratis-hadoop" />
+        <module name="ratis-hadoop-shaded" />
+        <module name="ratis-netty" />
+        <module name="ratis-proto-shaded" />
+        <module name="ratis-replicated-map" />
+        <module name="ratis-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="incubator-ratis" target="1.6" />
+      <module name="ratis-assembly" target="1.6" />
+      <module name="ratis-client" target="1.8" />
+      <module name="ratis-common" target="1.8" />
+      <module name="ratis-examples" target="1.8" />
+      <module name="ratis-grpc" target="1.8" />
+      <module name="ratis-hadoop" target="1.8" />
+      <module name="ratis-hadoop-shaded" target="1.8" />
+      <module name="ratis-netty" target="1.8" />
+      <module name="ratis-proto-shaded" target="1.8" />
+      <module name="ratis-replicated-map" target="1.8" />
+      <module name="ratis-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

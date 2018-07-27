@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <replace dir="src/main/java/org/apache/ratis/shaded/proto" value="org.apache.ratis.shaded.com.google." token="com.google.">
+    <include name="**/*.java"/>
+  </replace>
+  <replace dir="src/main/java/org/apache/ratis/shaded/proto" value="org.apache.ratis.shaded.io.grpc." token="io.grpc.">
+    <include name="**/*.java"/>
+  </replace>
+</target>
+</project>
